@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/asraf/public_html/
-    - /bin/cp * $DEPLOYPATH
